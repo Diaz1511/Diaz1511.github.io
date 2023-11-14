@@ -1,0 +1,42 @@
+body {
+    height: 800px;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.h23CVw-NHdJxnBRN_6rvMAHaEo&pid=Api&P=0&h=180);
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+header {
+    background: linear-gradient(to right, #fcfcfc, #0c9fda);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: #a1c5e2;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 10px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
+footer {
+    background: linear-gradient(to right, #ffffff, #41b3ff);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
